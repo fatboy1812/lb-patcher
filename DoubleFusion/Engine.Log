@@ -1,0 +1,28 @@
+9/17/2024 19:06:31	Version: 3.1.249.3
+9/17/2024 19:06:31	Loading Engine vars ...
+9/17/2024 19:06:31	Engine vars loaded!
+9/17/2024 19:06:31	Loading User vars ...
+9/17/2024 19:06:31	User vars loaded!
+9/17/2024 19:06:31	Loading cache file ...
+9/17/2024 19:06:31	Cache file loaded!
+9/17/2024 19:06:31	Starting zone: <N/A>
+9/17/2024 19:06:31	Getting Campaigns from server
+9/17/2024 19:06:31	Starting zone: World
+9/17/2024 19:06:32	ERROR: Bad HTTP status: 405
+9/17/2024 19:06:32	ERROR: Tracking web method connection failed: -2
+9/17/2024 19:06:32	ERROR: Bad HTTP status: 405
+9/17/2024 19:06:32	ERROR: Campaign update web method connection failed: -2
+9/17/2024 19:06:45	ERROR: Bad HTTP status: 405
+9/17/2024 19:06:45	ERROR: Tracking web method connection failed: -2
+9/17/2024 19:06:45	ERROR: SendTrackingToServer of this session failed!
+9/17/2024 19:06:45	Saving cache file ...
+9/17/2024 19:06:45	Cache info saved!
+9/17/2024 19:06:45	Engine shutdown complete
+9/17/2024 19:11:32	ERROR: Bad HTTP status: 405
+9/17/2024 19:11:32	ERROR: Tracking web method connection failed: -2
+9/17/2024 19:14:54	ERROR: Bad HTTP status: 405
+9/17/2024 19:14:54	ERROR: Tracking web method connection failed: -2
+9/17/2024 19:14:54	ERROR: SendTrackingToServer of this session failed!
+9/17/2024 19:14:54	Saving cache file ...
+9/17/2024 19:14:54	Cache info saved!
+9/17/2024 19:14:54	Engine shutdown complete
